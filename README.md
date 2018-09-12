@@ -38,3 +38,6 @@ $ source venv/bin/activate
 (venv) $ pip install -r requirements.txt
 </code></pre>
 </p>
+<p>One additional package needs to be installed:
+<pre><code>(venv) $ pip install gunicorn</code></pre>
+  </p>
